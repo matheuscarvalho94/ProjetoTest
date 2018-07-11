@@ -3,7 +3,7 @@ import { View, FlatList, StatusBar } from 'react-native';
 import styles from './styles';
 
 import ListItem from '../../components//list/list';
-import data from '../../../jsons/posts'
+import data from '../../../jsons/json'
 
 class Posts extends Component {
     

@@ -4,10 +4,6 @@ import { ScrollView, View, Text, ImageBackground, TouchableOpacity } from 'react
 
 import styles from './styles';
 
-
-
-
-
 const Detail = ({ navigation }) => {
   const { item } = navigation.state.params;
 

@@ -1,0 +1,7 @@
+#Wed Jul 11 11:28:15 BRT 2018
+base.0=/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_300e28c84be878acacbb42202851c513d6fea8c7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c769de1c7d48fbb7b25def94679c941e1df5e06a/classes.dex
+base.1=/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c769de1c7d48fbb7b25def94679c941e1df5e06a
+file.0=/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_300e28c84be878acacbb42202851c513d6fea8c7/classes.dex

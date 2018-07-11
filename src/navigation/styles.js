@@ -1,5 +1,6 @@
 import { StyleSheet } from 'react-native';
 import { colors, metrics } from '../styles';
+import { Platform } from 'react-native';
 
 const styles = StyleSheet.create({
   ViewHeader: {
@@ -23,8 +24,11 @@ const styles = StyleSheet.create({
     fontSize: 18,
   },
   Logo: {
-    width: 150,
-    height: 40,
+    width: 120,
+    height: 32,
+    justifyContent: 'center',
+    marginLeft: Platform.OS === 'ios' ? 0 : 26,
+    alignItems: 'center'
   }
 });
 

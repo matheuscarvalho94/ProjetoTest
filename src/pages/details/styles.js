@@ -1,5 +1,6 @@
 import { StyleSheet } from 'react-native';
 import { colors, metrics } from '../../styles';
+import { Platform } from "react-native";
 
 const styles = StyleSheet.create({
   container: {
@@ -44,6 +45,7 @@ const styles = StyleSheet.create({
 
   thumbnailContent: {
     flex: 1,
+    paddingLeft: Platform.OS === 'ios' ? 0 : 22,
     backgroundColor: colors.darkTransparent,
     justifyContent: 'center',
     alignItems: 'center',

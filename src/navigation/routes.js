@@ -7,6 +7,7 @@ import styles from './styles';
 
 
 //pages
+import Splash from '../pages/Splash'
 import Home from '../pages/home';
 import Posts from '../pages/posts';
 import Produtos from '../pages/produtos';
@@ -31,7 +32,7 @@ const navigationOptions = ({ navigation }) => ({
 export const NavigationHome = StackNavigator({
   Home: { screen: Home },
   Detail: { screen: Detail },
-  },
+},
   {
     navigationOptions
   }
@@ -39,6 +40,7 @@ export const NavigationHome = StackNavigator({
 
 export const NavigationPosts = StackNavigator({
   Posts: { screen: Posts },
+  Detail: { screen: Detail },
 },
   {
     navigationOptions
@@ -53,6 +55,7 @@ export const NavigationProduto = StackNavigator({
     navigationOptions
   }
 );
+
 
 export const Main = TabNavigator({
   NavigationHome: {
@@ -110,8 +113,14 @@ export const Main = TabNavigator({
 );
 
 const MainNavigator = StackNavigator({
-  Main: { screen: Main }
+  Splash: {
+    screen: Splash
+  },
+  Main: {
+    screen: Main
+  }
 },{
+  initialRouteName: "Splash",
   headerMode: "none",
 }
 );

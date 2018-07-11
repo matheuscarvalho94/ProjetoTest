@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_35c5205887d49bcbf39b03ef8dbe83296e75b508/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/c17f333f24d88a669af2659dbd201e8436508709/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7eec2196f12b2b3405c53d4dde5bcf56e80865e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_83bc1c3bda6a97b37dc147cbb7955994297b8b6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/5a8ed5dca376e76810239ca5d4071fba532d0d99/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9125efa7bc56112242b82a39b16296f19e654ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_300e28c84be878acacbb42202851c513d6fea8c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.10.0_137b766ff707be716a77b27375e445bd06913f54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/b266d6a24db0bf74a461de85c96ebed078edb597/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38ae933d5067b647070a8ebbc50db6b424b8c888/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_bd75f99ed569e55cb72de14dc396c0e7a3d97e6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/5348eea7ae819e9281625c966b68fe4d78be3c39/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9277953007231d62bacaf8d2886b690079b9b88f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/af3f10ed50008dcf90c5a50a190100d43be56684/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76adb41d7e29fc110cbb3f131143e182a7f5f331/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_49a591d576eb78bae02c1e018aa420e3dfb07f0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_238cd42ba68e30a616b3b4d536dc14b9999d23d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/30907085e58e6062aaa2a9707719dca1904b2be8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1045c31adc7b52a8a640c464478a0d5f16b7ab7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/c9ea01f3e3bd6ee0a88b574cd27415f39fb78794/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ecc9aca16b78ad98a58df9a8acdd73530ebbd53c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/523cdc5493d26d03673dba55e0d6b39dd4f5669b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12fa21124d6ad81787fe1dbf9b875a12581597d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/48098b4a1a0973a46c294399029affbd49ea7d6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0df8a35c7b4f5ffd23475e7226e0711a400ba2f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/0ff5ed16d2cad3470f2db92a4f97dd080a3b3d9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_553cdacc136b614c674331569a911b7c28179d1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/fe764bc10cd624cf52fe9c42b18290d9322c1593/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6dca5c74b563f4e75f8566103d765fe47f595ba3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/ad41bd90eb0bf7fda2c97620b52f706db70dcf74/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18ccbd746bc69d84aa7997963557e15326b69500/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.14.0_c25fbf5724ad51fe46dcbf1d8030e33f3d4b41b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/aa145786182de123f10d10eb21dbccadba1f017b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_743a5ff19d325101deae01dd8be4c86106b39438/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/d4503727395f81ede140fed3ae63f8c58e05681b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d20cc39e583e799517bdd2530efc070e3e347bb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/7df9854a53b65dea0f0fd1d83e8b4e25aaa25863/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_237c78e467189fac895bdd121c1bd57786c1a0e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/e232a5974a979d077790be30887ca7513dc7be40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f491946f458db0d2ab3343ddb983d7dad0cadfd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_7480b2504b7c1c31c343d4f503235eaa2b1cb0c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.10.0_af18dcd7b6792a16957eb927a2cea4d18da0a4fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_9395a1f1b0c5afe8214a5c0e24adea8b9578aa0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/7df9854a53b65dea0f0fd1d83e8b4e25aaa25863/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-4.0_de41d627c464df257d6b61a8a4f063d8f1466b40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/db6563267ccb787749610ff6c7a198aae203537f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5741a9216610cd501687a6de693e1df8d444575/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9ab14b339bf544d954c49e9768446d6bca1c062d">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c769de1c7d48fbb7b25def94679c941e1df5e06a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/a3a4a5e86f13347e95784dc0e65304bdd3fba60b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74ea17cbf1cd718fb8711bfe9f59e48257dc2ba0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matheuscarvalho/.android/build-cache/399b9dd1cb4f1f59d3646f7f5fc5e1ecaf5a7166/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b9e64608c96c00d69f621ebb23682c25bb6c49f/classes.dex" />
+    </item>
+
+</items>

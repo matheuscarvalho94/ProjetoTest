@@ -1,0 +1,4 @@
+#Wed Jul 11 11:37:38 BRT 2018
+base.0=/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

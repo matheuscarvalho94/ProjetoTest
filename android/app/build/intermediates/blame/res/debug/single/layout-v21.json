@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/matheuscarvalho/.android/build-cache/0ff5ed16d2cad3470f2db92a4f97dd080a3b3d9f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/matheuscarvalho/.android/build-cache/0ff5ed16d2cad3470f2db92a4f97dd080a3b3d9f/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/matheuscarvalho/.android/build-cache/0ff5ed16d2cad3470f2db92a4f97dd080a3b3d9f/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/matheuscarvalho/.android/build-cache/0ff5ed16d2cad3470f2db92a4f97dd080a3b3d9f/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

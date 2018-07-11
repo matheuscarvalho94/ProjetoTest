@@ -6,7 +6,7 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1531319838215"
+    timestamp="1531322295548"
     token="5369086082859601509"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -18,14 +18,11 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="2382" />
+        duration="0" />
     <task
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
     <artifact
         location="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
@@ -48,6 +45,9 @@
         location="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
     <artifact
+        location="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
         location="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
         type="SPLIT" />
     <artifact
@@ -62,11 +62,8 @@
 
     <build
         build-mode="FULL"
-        timestamp="1531319838215"
+        timestamp="1531322295548"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
         <artifact
             location="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
@@ -87,6 +84,9 @@
             type="SPLIT" />
         <artifact
             location="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
             location="/Users/matheuscarvalho/Documents/Projetos/NextelProject/android/app/build/intermediates/split-apk/debug/slices/slice_9.apk"

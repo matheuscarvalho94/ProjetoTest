@@ -7,13 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@babel/plugin-syntax-dynamic-import": "^7.0.0-beta.52",
-    "enzyme": "^3.3.0",
-    "jest-serializer-enzyme": "^1.0.0",
     "react": "16.4.1",
-    "react-addons-test-utils": "^15.6.2",
-    "react-dom": "^16.4.1",
-    "react-loadable": "^5.4.0",
     "react-native": "0.56.0",
     "react-native-fontawesome": "^5.7.0",
     "react-native-iphone-x-helper": "^1.0.2",
